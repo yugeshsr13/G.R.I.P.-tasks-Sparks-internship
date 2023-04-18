@@ -30,15 +30,19 @@ Task Description
 #Task 1
 
 Supervised learning can be used to predict academic scores based on study timing. This involves collecting data on study timing and scores, splitting it into training and testing sets, and using a machine learning algorithm to learn the relationship between study timing and scores. The model can then make predictions on new data, helping students optimize their study schedules for better academic outcomes.
+
 #Task 2
 
 In the iris dataset clustering project, unsupervised learning is used to identify patterns and groupings in the data, with the goal of better understanding the characteristics of different types of iris plants.
+
 #Task 3
 
 In the super store EDA project, data visualization and statistical analysis are used to explore patterns and trends in sales data, with the goal of identifying insights that can be used to improve the store's operations and strategy.
+
 #Task 4
 
 In the terrorism EDA project, visualizations, statistical analysis, and machine learning techniques are used to identify patterns and trends in terrorist incidents, with the goal of understanding the nature and frequency of attacks and identifying ways to prevent future attacks.
+
 #Task 5
 
 In the sports EDA project, data visualization, statistical analysis, and machine learning techniques are used to gain insights into sports events and athletes, with the goal of identifying patterns and trends that can be used to improve team and athlete performance.
