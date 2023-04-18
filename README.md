@@ -2,27 +2,39 @@
 G.R.I.P. Tasks
 
 Description
+
 This repository contains projects completed as part of the Sparks Foundation Graduate Rotational Internship Program (G.R.I.P.). The tasks cover different domains of data science, including supervised and unsupervised learning, exploratory data analysis, and machine learning techniques.
 
 Tasks
+
 Task 1: Prediction using Supervised ML
+
 Task 2: Prediction using Unsupervised ML
+
 Task 3: Exploratory Data Analysis - Retail
+
 Task 4: Exploratory Data Analysis - Terrorism
+
 Task 5: Exploratory Data Analysis - Sports
+
 Tools Used
+
 The projects were completed using Python and its libraries such as pandas, NumPy, matplotlib, seaborn, and scikit-learn.
 
 Installation
+
 To run the projects, you will need to have Python installed on your system along with the necessary libraries mentioned above. You can install them using pip, the package installer for Python.
 
 Usage
+
 You can clone the repository and run the projects in a Python environment such as Jupyter Notebook or Spyder. The datasets used in the projects are included in the repository.
 
 Credits
+
 The Sparks Foundation for providing the opportunity to work on these projects and learn about different aspects of data science.
 
 License
+
 This repository is licensed under the MIT License. Feel free to use and modify the code as per your requirements.
 
 Task Description
